@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>will update</h1>
+        <h1>Here will go the header for the sticky</h1>
       </header>
     </div>
   );
